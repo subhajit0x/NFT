@@ -240,4 +240,3 @@ _setTokenURI(newItemId, "https://jsonkeeper.com/b/JJJS");
 
 There are three environments for a blockchain network: mainnet, devnet, and testnet.
 
-**Resources -**
